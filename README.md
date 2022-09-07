@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mjvh7h2gh7ghntoe/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-props-films/branch/main)
+
 [Рейтинг фильмов](https://bombik815.github.io/ra-props-films/)
 
 ===
